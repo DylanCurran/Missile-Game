@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\c00217112\desktop\firstlabdylancurran\project1\project1\main.cpp(70): warning C4305: '=': truncation from '__int64' to 'int'
+c:\users\c00217112\desktop\firstlabdylancurran\project1\project1\main.cpp(70): warning C4309: '=': truncation of constant value
+c:\users\c00217112\desktop\firstlabdylancurran\project1\project1\main.cpp(109): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\c00217112\desktop\firstlabdylancurran\project1\project1\main.cpp(113): warning C4553: '==': operator has no effect; did you intend '='?
+  Project1.vcxproj -> C:\Users\C00217112\Desktop\FirstLabDylanCurran\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\C00217112\Desktop\FirstLabDylanCurran\Project1\Debug\Project1.pdb (Partial PDB)
